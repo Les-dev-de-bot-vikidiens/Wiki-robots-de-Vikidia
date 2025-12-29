@@ -8,12 +8,22 @@
 
 ## BotJanus
 
-* [Page 1](botjanus/page-1.md)
+* [Accueil - BotJanus](botjanus/accueil-botjanus.md)
+* [Script1.py](botjanus/script1.py.md)
 
 ## MuffyBot
 
-* [Page 2](muffybot/page-2.md)
+* [Accueil - MuffyBot](muffybot/accueil-muffybot.md)
+* [Script1.py](muffybot/script1.py.md)
 
 ## BotCélian
 
+* [Accueil - BotCélian](botcelian/accueil-botcelian.md)
 * [ArticleMAJ.py](botcelian/articlemaj.py.md)
+* [Stats.py](botcelian/stats.py.md)
+* [ebauche\_24.py](botcelian/ebauche_24.py.md)
+* [ebauche\_auto.py](botcelian/ebauche_auto.py.md)
+* [journalier.py](botcelian/journalier.py.md)
+* [personnality.py](botcelian/personnality.py.md)
+* [personnalityDoublon.py](botcelian/personnalitydoublon.py.md)
+* [typo.py](botcelian/typo.py.md)
