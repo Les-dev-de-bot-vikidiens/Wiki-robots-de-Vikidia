@@ -16,4 +16,4 @@
 
 ## BotCélian
 
-* [Page 3](botcelian/page-3.md)
+* [ArticleMAJ.py](botcelian/articlemaj.py.md)
