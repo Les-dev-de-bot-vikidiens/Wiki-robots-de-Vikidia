@@ -27,3 +27,4 @@
 * [personnality.py](botcelian/personnality.py.md)
 * [personnalityDoublon.py](botcelian/personnalitydoublon.py.md)
 * [typo.py](botcelian/typo.py.md)
+* [stop.py](botcelian/stop.py.md)
