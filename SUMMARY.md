@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [Accueil](README.md)
 
 ## Général
 
@@ -15,6 +15,7 @@
 
 * [Accueil - MuffyBot](muffybot/accueil-muffybot.md)
 * [categinex.py](muffybot/categinex.py.md)
+* [homonym.py](muffybot/homonym.py.md)
 
 ## BotCélian
 

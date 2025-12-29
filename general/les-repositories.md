@@ -6,7 +6,7 @@ description: Liste et description des repositories.
 
 {% tabs %}
 {% tab title="MuffyBot" %}
-Repository des scripts de MuffyBot, rédigés par Muffy.
+Repository des scripts de MuffyBot/NatsuBot, rédigés par Muffy.
 
 
 
