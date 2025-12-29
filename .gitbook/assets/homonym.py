@@ -1,14 +1,4 @@
-# homonym.py
-
-Script de maintenance de MuffyBot permettant d'enlever les portails sur les page d'homonymies.
-
-### Fonctionnement
-
-À venir
-
-
-
-```python
+# le script sert à supprimer les portails des pages d'homonymies de Vikidia
 import pywikibot
 import mwparserfromhell
 
@@ -69,6 +59,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-```
-
-{% file src="../.gitbook/assets/homonym.py" %}
