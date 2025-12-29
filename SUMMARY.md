@@ -14,7 +14,7 @@
 ## MuffyBot
 
 * [Accueil - MuffyBot](muffybot/accueil-muffybot.md)
-* [Script1.py](muffybot/script1.py.md)
+* [categinex.py](muffybot/categinex.py.md)
 
 ## BotCélian
 
