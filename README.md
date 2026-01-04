@@ -47,11 +47,9 @@ $ python3 -m pip install pywikibot
 
 Lisez les guides et apprenez-en davantage sur l'utilisation des bots sur Vikidia.
 
-<a class="button primary" data-icon="book-open">Guides</a> <a href="https://template.gitbook.com/space-product-docs" class="button secondary" data-icon="book">Documentation</a>
+<a href="general/les-repositories.md" class="button primary" data-icon="book-open">Guides</a> <a href="https://www.mediawiki.org/wiki/Manual:Pywikibot/fr" class="button secondary" data-icon="book">Documentation</a>
 {% endcolumn %}
 {% endcolumns %}
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
 
 <h2 align="center">Rejoindre la communauté</h2>
 
