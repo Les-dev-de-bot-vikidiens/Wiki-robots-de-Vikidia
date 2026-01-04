@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Accueil](README.md)
+* [Robots de Vikidia](README.md)
 
 ## Général
 
